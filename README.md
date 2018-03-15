@@ -6,7 +6,7 @@
 <p>Overall, we achieve a low RMSE comparable to academic studies of housing data. It was superior to other tutorial methodologies found on websites like Towardsdatascience. Given its simplicity, we find this model useful.</p>
 
 <br>Here are benchmarks for reference:</br>
-<p>
-http://www.doc.ic.ac.uk/~mpd37/theses/2015_beng_aaron-ng.pdf
-https://web.stanford.edu/class/cs221/2017/restricted/p-final/ianjones/final.pdf
-https://towardsdatascience.com/create-a-model-to-predict-house-prices-using-python-d34fe8fad88f</p>
+
+<br>http://www.doc.ic.ac.uk/~mpd37/theses/2015_beng_aaron-ng.pdf</br>
+<br>https://web.stanford.edu/class/cs221/2017/restricted/p-final/ianjones/final.pdf</br>
+<br>https://towardsdatascience.com/create-a-model-to-predict-house-prices-using-python-d34fe8fad88f</br>
